@@ -15,4 +15,4 @@ Data from: https://snap.stanford.edu/data/roadNet-CA.txt.gz
 
 4. Now try getting the first 200 Node IDs from roadNet-CA.txt and once again create a Directed Graph. And again Nodes that do not have a neighbour set these as cornors.
 
-Help to some of the exercises if needed: https://www.python-course.eu/graphs_python.php <br>or [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Bringordie/sem4python/master?filepath=Week43-ex09%2FWeek_43.ipynb) to how I've done the exercises.
+Help to some of the exercises if needed: https://www.python-course.eu/graphs_python.php <br>or [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Bringordie/sem4python/master?filepath=Week43-ex09%2FWeek_43.ipynb) to see how I've done the exercises.
